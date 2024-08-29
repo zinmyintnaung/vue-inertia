@@ -1,3 +1,3 @@
 <template>
-    The counter is xx
+  The counter is xx
 </template>
