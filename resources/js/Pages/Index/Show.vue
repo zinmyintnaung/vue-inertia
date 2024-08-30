@@ -5,6 +5,6 @@
 
 <script setup>
 defineProps({
-  message: String,
+    message: String,
 })
 </script>
